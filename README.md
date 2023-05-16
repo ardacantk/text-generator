@@ -1,3 +1,6 @@
+![hw1](https://github.com/ardacantk/text-generator/assets/95983921/3b528fd5-3610-4423-98bf-360f5afd5b39)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
